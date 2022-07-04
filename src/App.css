@@ -1697,4 +1697,10 @@ p {
 .fa-heart {
   color: #7D9D9C;
 }
+
+.btn-project {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
 /*# sourceMappingURL=App.css.map */
