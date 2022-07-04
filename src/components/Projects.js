@@ -32,9 +32,13 @@ class Projects extends Component {
                     src={projects.images[0]}
                     alt="projectImages"
                     height="230"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
+                    style={{
+                      marginBottom: 0,
+                      paddingBottom: 0,
+                      position: "relative",
+                    }}
                   />
-                  <span className="project-date">{projects.startDate}</span>
+                  {/* <span className="project-date">{projects.startDate}</span> */}
                   <br />
                   <p className="project-title-settings mt-3">
                     {projects.title}
@@ -61,6 +65,16 @@ class Projects extends Component {
             onHide={detailsModalClose}
             data={this.state.deps}
           />
+        </div>
+        <div className="col-md-12 mx-auto text-center">
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://github.com/fthrobby"
+            className="mt-5 btn btn-lg btn-dark"
+          >
+            More Project on My Github <i className="fab fa-github"></i>
+          </a>
         </div>
       </section>
     );
