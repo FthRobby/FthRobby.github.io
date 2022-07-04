@@ -72,7 +72,7 @@ class Header extends Component {
                 onChange={this.onThemeSwitchChange}
                 offColor="#f3f3f3"
                 onColor="#353535"
-                className="react-switch mx-auto"
+                className="react-switch mx-auto my-auto"
                 width={90}
                 height={40}
                 uncheckedIcon={
