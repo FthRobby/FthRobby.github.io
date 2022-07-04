@@ -11,22 +11,39 @@
     },
     "projects": [
       {
-        "title": "Mangan Apps",
-        "startDate": "2022",
-        "description": "Catalog restaurant berbasis PWA menampilkan daftar restaurant terbaik. Dibuat menggunakan Node Js dan menampilkan data dari API yang diberikan oleh Dicoding.",
+        "title": "Profile Web V1",
+        "startDate": "2020",
+        "description": "Web personal yang saya buat menggunakan React ini adalah versi pertama. Design yang saya buat tersinpirasi dari project temanku.",
         "images": [
-          "images/portfolio/mangan/p1.png",
-          "images/portfolio/mangan/p2.png"
+          "images/portfolio/profile-web-v1/p1.png",
+          "images/portfolio/profile-web-v1/p2.png"
         ],
-        "url": "https://mangan-apps.vercel.app",
+        "url": "https://github.com/FthRobby/fthrobby.github.io",
         "technologies": [
           {
-            "class": "devicon-webpack-plain colored",
-            "name": "Webpack"
+            "class": "devicon-react-plain colored",
+            "name": "React"
           },
           {
-            "class": "devicon-nodejs-plain colored",
-            "name": "NodeJs"
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Calculator",
+        "startDate": "2021",
+        "description": "Sebuah kalkulator basic, dibuat menggunakan Vue Js",
+        "images": ["images/portfolio/calculator/p1.png"] ,
+        "url": "https://calculator-vue.netlify.app",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain colored",
+            "name": "Vue Js"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS3"
           }
         ]
       },
@@ -51,22 +68,22 @@
         ]
       },
       {
-        "title": "Profile Web V1",
-        "startDate": "2020",
-        "description": "Web personal yang saya buat menggunakan React ini adalah versi pertama. Design yang saya buat tersinpirasi dari project temanku.",
+        "title": "Mangan",
+        "startDate": "2022",
+        "description": "Catalog restaurant berbasis PWA menampilkan daftar restaurant terbaik. Dibuat menggunakan Node Js dan menampilkan data dari API yang diberikan oleh Dicoding.",
         "images": [
-          "images/portfolio/profile-web-v1/p1.png",
-          "images/portfolio/profile-web-v1/p2.png"
+          "images/portfolio/mangan/p1.png",
+          "images/portfolio/mangan/p2.png"
         ],
-        "url": "https://github.com/FthRobby/fthrobby.github.io",
+        "url": "https://mangan-apps.vercel.app",
         "technologies": [
           {
-            "class": "devicon-react-plain colored",
-            "name": "React"
+            "class": "devicon-webpack-plain colored",
+            "name": "Webpack"
           },
           {
-            "class": "devicon-bootstrap-plain colored",
-            "name": "Bootstrap"
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJs"
           }
         ]
       },
