@@ -93,6 +93,28 @@
             "name": "NodeJs"
           }
         ]
+      },
+      {
+        "title": "Ayo Masak",
+        "startDate": "2022",
+        "description": "Website untuk menampilkan menu masakan, mulai dari masakan tradisional sampai masakan internasional. Data resep diambil dari API Unofficial masakapahariini ",
+        "images": [
+          "images/portfolio/ayo-masak/p1.png",
+          "images/portfolio/ayo-masak/p2.png",
+          "images/portfolio/ayo-masak/p3.png",
+          "images/portfolio/ayo-masak/p4.png"
+        ],
+        "url": "https://ayo-masak.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          }
+        ]
       }
     ],
     "experience": [
