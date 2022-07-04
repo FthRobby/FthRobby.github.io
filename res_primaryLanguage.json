@@ -93,6 +93,28 @@
             "name": "NodeJs"
           }
         ]
+      },
+      {
+        "title": "Ayo Masak",
+        "startDate": "2022",
+        "description": "Showing Indonesian Food and Drink Recipes. Data is fetched from API and displayed in the website. The API is from Unofficial masapapahariini API. ",
+        "images": [
+          "images/portfolio/ayo-masak/p1.png",
+          "images/portfolio/ayo-masak/p2.png",
+          "images/portfolio/ayo-masak/p3.png",
+          "images/portfolio/ayo-masak/p4.png"
+        ],
+        "url": "https://ayo-masak.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          }
+        ]
       }
     ],
     "experience": [
