@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hai",
-      "description": "👋 Saya, Fatah RobbySalam, seorang Front-End Web Developer. Saya berkerja menggunakan Javascript Vanilla dan Library Javascript seperti React.JS dan NodeJs. Untuk Tampilan pengguna saya lebih memilih Bootstrap, karena mudah digunakan dan mudah untuk dimodifikasi.",
+      "description_header": "Hai 👋 ",
+      "description": "Saya, Fatah RobbySalam, seorang Front-End Web Developer. Saya berkerja menggunakan Javascript Vanilla dan Library Javascript seperti React.JS dan NodeJs. Untuk Tampilan pengguna saya lebih memilih Bootstrap, karena mudah digunakan dan mudah untuk dimodifikasi.",
       "section_name": {
         "about": "Tentang Saya",
         "projects": "Proyek",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fthrobby.github.io/precache-manifest.5ceda3030bfbf577153faa10b815b16c.js"
+  "/fthrobby.github.io/precache-manifest.03f957616cb9a1499898392d51f89922.js"
 );
 
 self.addEventListener('message', (event) => {

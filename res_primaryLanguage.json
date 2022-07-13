@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Fatah RobbySalam, I'm a Front-End Web Developer. I am working using vanilla JavaScript and Javascript Library like React.Js and Node.Js. For User Interface I choose Bootstrap cause its easy to modify it.",
+      "description_header": "Hi 👋",
+      "description": " I'm Fatah RobbySalam, I'm a Front-End Web Developer. I am working using vanilla JavaScript and Javascript Library like React.Js and Node.Js. For User Interface I choose Bootstrap cause its easy to modify it.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
