@@ -31,6 +31,23 @@
         ]
       },
       {
+        "title": "Notes App",
+        "startDate": "2021",
+        "description": "Aplikasi catatan dibuat menggunakan React Js untuk menyelesaikan kelas di Dicoding.",
+        "images": ["images/portfolio/noteapps/p1.png"] ,
+        "url": "https://frobby-notesapp.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
         "title": "Calculator",
         "startDate": "2021",
         "description": "Sebuah kalkulator basic, dibuat menggunakan Vue Js",
