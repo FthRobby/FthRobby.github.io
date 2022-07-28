@@ -31,6 +31,23 @@
         ]
       },
       {
+        "title": "Notes App",
+        "startDate": "2021",
+        "description": "Notes App that I made using react to finished submission class on Dicoding Academy.",
+        "images": ["images/portfolio/noteapps/p1.png"] ,
+        "url": "https://frobby-notesapp.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original colored",
+            "name": "React Js"
+          },
+          {
+            "class": "devicon-tailwindcss-plain colored",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
         "title": "Calculator",
         "startDate": "2021",
         "description": "This is a calculator. This app build using Vue Js",
