@@ -153,6 +153,23 @@
     ],
     "experience": [
       {
+        "company": "PT. Git Solution",
+        "title": "Fullstack Web Developer - MBKM Kampus Merdeka",
+        "years": "07.2022 - Present",
+        "mainTech":[
+          "Laravel", "Vue Js", "Wordpress"
+        ],
+        "technologies": [
+          "MVC",
+          "Webservice",
+          "REST API",
+          "Javascript",
+          "PHP",
+          "Cross Platform",
+          "MySQL"
+        ]
+      },
+      {
         "company": "Dicoding Indonesia",
         "title": "Front-End Back-End Web Developer - MSIB Kampus Merdeka",
         "years": "02.2022 - 08.2022",
